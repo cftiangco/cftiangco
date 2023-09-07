@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Crimson Tiangco
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React Native and Linux Operating System
+- 🌱 I’m currently working as Full Stack Developer
 - 📫 How to reach me cftiangco@gmail.com
 
 <!---
